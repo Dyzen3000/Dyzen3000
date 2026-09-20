@@ -8,7 +8,7 @@ If I'm unsure or not 100% confident of an answer to any question I have, I tend 
 
 My main tech stack is Python(Pandas, Numpy), Excel, Power BI and PostgreSQL.
 
-I have exactly 1 pined project rn, but I'm definitely in the process of completing more.
+I have've completed just 2 project as of rn, but I'm definitely in the process of completing more.
 
 Fun Facts :
 - Very well versed in the rock music canon from 1955 to 2005
